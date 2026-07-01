@@ -48,15 +48,15 @@ The ABI Rice Shop website helps customers:
 
 ### Desktop View
 
-![Desktop View](screenshots/Desktop-View.png)
+![Desktop View](screenshots/desktop-view.png)
 
 ### Mobile View
 
-![Mobile View](screenshots/Mobile-View.png)
+![Mobile View](screenshots/mobile-view.png)
 
 ### Tab View
 
-![Tablet View](screenshots/Tab-view.png)
+![Tablet View](screenshots/tablet-view.png)
 
 ---
 
