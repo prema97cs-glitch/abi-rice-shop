@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#1B5E20"/>
+  <!-- Rice stalk stem -->
+  <line x1="32" y1="52" x2="32" y2="18" stroke="#D4A017" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Rice grains on stalk -->
+  <ellipse cx="32" cy="20" rx="5" ry="3" fill="#D4A017" transform="rotate(-20 32 20)"/>
+  <ellipse cx="28" cy="26" rx="5" ry="3" fill="#D4A017" transform="rotate(20 28 26)"/>
+  <ellipse cx="36" cy="24" rx="5" ry="3" fill="#D4A017" transform="rotate(-15 36 24)"/>
+  <ellipse cx="27" cy="32" rx="5" ry="3" fill="#D4A017" transform="rotate(15 27 32)"/>
+  <ellipse cx="37" cy="30" rx="5" ry="3" fill="#D4A017" transform="rotate(-10 37 30)"/>
+  <ellipse cx="28" cy="38" rx="5" ry="3" fill="#D4A017" transform="rotate(10 28 38)"/>
+  <ellipse cx="36" cy="36" rx="5" ry="3" fill="#D4A017" transform="rotate(-5 36 36)"/>
+  <!-- Leaf -->
+  <path d="M32 30 Q20 22 18 14 Q26 16 32 30Z" fill="#4CAF50" opacity="0.9"/>
+  <!-- Outer ring -->
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#D4A017" stroke-width="2.5"/>
+</svg>
